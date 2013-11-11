@@ -158,6 +158,10 @@ aside a.button {
   font-size: 21px;
 }
 
+aside h2 {
+font-size: 2em;
+}
+
 code, pre {
   font-family: Monaco, "Bitstream Vera Sans Mono", "Lucida Console", Terminal, monospace;
   color: #222;
